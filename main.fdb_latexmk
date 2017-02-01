@@ -1,11 +1,11 @@
 # Fdb version 3
-["biber main"] 1485979373 "main.bcf" "main.bbl" "main" 1485984409
+["biber main"] 1485979373 "main.bcf" "main.bbl" "main" 1485984500
   "main.bcf" 1485984409 92324 6147f17dfa27a1f955856d83552ddc9e ""
   "sample.bib" 1485979290 3988 8b5f2af0f795e0c809f2cd5f24c73b59 ""
   (generated)
-  "main.bbl"
   "main.blg"
-["pdflatex"] 1485984408 "main.tex" "/home/getz/Documents/Gymnasie Arbete/main.pdf" "main" 1485984409
+  "main.bbl"
+["pdflatex"] 1485984408 "main.tex" "/home/getz/Documents/Gymnasie Arbete/main.pdf" "main" 1485984500
   "/etc/texmf/web2c/texmf.cnf" 1485261268 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/getz/Documents/Gymnasie Arbete/main.aux" 1485984409 5342 432e0a37f9dd46d8c4614dffc7173ad3 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
@@ -121,14 +121,14 @@
   "main.aux" 1485984409 5342 432e0a37f9dd46d8c4614dffc7173ad3 ""
   "main.bbl" 1485979375 10710 1769eab04b1b30c87c3af0f4257de5cd "biber main"
   "main.run.xml" 1485984409 2333 cedf8c189a252dc28e7fb7410d99e5a5 ""
-  "main.tex" 1485984407 8800 e552f080a3dcb5955167af4ce579521d ""
+  "main.tex" 1485984500 8800 e552f080a3dcb5955167af4ce579521d ""
   "main.toc" 1485984409 2645 41114ad4043b8f54c4bfbe9b1bf866f2 ""
   (generated)
-  "main.pdf"
   "/home/getz/Documents/Gymnasie Arbete/main.pdf"
-  "main.toc"
-  "main.bcf"
-  "main.log"
   "/home/getz/Documents/Gymnasie Arbete/main.log"
-  "main.aux"
+  "main.bcf"
   "main.run.xml"
+  "main.pdf"
+  "main.toc"
+  "main.log"
+  "main.aux"
