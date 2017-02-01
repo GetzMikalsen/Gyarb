@@ -1,0 +1,290 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.6 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{ynt/global}
+    \entry{kreig1965green}{book}{}
+      \name{author}{1}{}{%
+        {{hash=869712863dd25c89f7d0e81dda2d362b}{%
+           family={Kreig},
+           family_i={K\bibinitperiod},
+           given={Margaret\bibnamedelima B},
+           given_i={M\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{869712863dd25c89f7d0e81dda2d362b}
+      \strng{fullhash}{869712863dd25c89f7d0e81dda2d362b}
+      \field{sortinit}{1}
+      \field{sortinithash}{53e85f4cf497d2a4e1d51786552bcbf1}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Green medicine}
+      \field{year}{1965}
+    \endentry
+    \entry{shulgin1967chemistry}{article}{}
+      \name{author}{3}{}{%
+        {{hash=cfb0da98918b7e255eccf1b7f7980d15}{%
+           family={Shulgin},
+           family_i={S\bibinitperiod},
+           given={Alexander\bibnamedelima T},
+           given_i={A\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=ce38a7c3e79d2b6dcd822f684ef65bf2}{%
+           family={Sargent},
+           family_i={S\bibinitperiod},
+           given={Thornton},
+           given_i={T\bibinitperiod}}}%
+        {{hash=019cf2ebe04af495f43e85d4a77acde3}{%
+           family={Naranjo},
+           family_i={N\bibinitperiod},
+           given={Claudia},
+           given_i={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Government Printing Office Washington, DC}%
+      }
+      \strng{namehash}{80ecfd5116e2ec0b78f050d4a2c6071b}
+      \strng{fullhash}{80ecfd5116e2ec0b78f050d4a2c6071b}
+      \field{sortinit}{1}
+      \field{sortinithash}{53e85f4cf497d2a4e1d51786552bcbf1}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ethnopharmacologic Search for Psychoactive Drugs}
+      \field{title}{The chemistry and psychopharmacology of nutmeg and of several related phenylisopropylamines}
+      \field{year}{1967}
+      \field{pages}{202\bibrangedash 214}
+      \range{pages}{13}
+    \endentry
+    \entry{weil1967nutmeg}{article}{}
+      \name{author}{1}{}{%
+        {{hash=8bdb5ea5dfa27bbbc2cb32cca188718b}{%
+           family={Weil},
+           family_i={W\bibinitperiod},
+           given={Andrew\bibnamedelima T},
+           given_i={A\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \strng{namehash}{8bdb5ea5dfa27bbbc2cb32cca188718b}
+      \strng{fullhash}{8bdb5ea5dfa27bbbc2cb32cca188718b}
+      \field{sortinit}{1}
+      \field{sortinithash}{53e85f4cf497d2a4e1d51786552bcbf1}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ethnopharmacologic Search For Psychoactive Drugs. US Government Printing Office}
+      \field{title}{Nutmeg as a psychoactive drug}
+      \field{volume}{1967}
+      \field{year}{1967}
+      \field{pages}{188\bibrangedash 201}
+      \range{pages}{14}
+    \endentry
+    \entry{kalbhen1971nutmeg}{article}{}
+      \name{author}{1}{}{%
+        {{hash=05617467b62a6f2e87fb8bbac7d8edc7}{%
+           family={Kalbhen},
+           family_i={K\bibinitperiod},
+           given={Dieter\bibnamedelima Abbo},
+           given_i={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{05617467b62a6f2e87fb8bbac7d8edc7}
+      \strng{fullhash}{05617467b62a6f2e87fb8bbac7d8edc7}
+      \field{sortinit}{1}
+      \field{sortinithash}{53e85f4cf497d2a4e1d51786552bcbf1}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Angewandte Chemie International Edition in English}
+      \field{number}{6}
+      \field{title}{Nutmeg as a narcotic. A contribution to the chemistry and pharmacology of nutmeg (Myristica fragrans)}
+      \field{volume}{10}
+      \field{year}{1971}
+      \field{pages}{370\bibrangedash 374}
+      \range{pages}{5}
+    \endentry
+    \entry{malcolmx}{book}{}
+      \name{author}{3}{}{%
+        {{hash=27e4190972cdd322984d944975276900}{%
+           family={Little},
+           family_i={L\bibinitperiod},
+           given={M.},
+           given_i={M\bibinitperiod}}}%
+        {{hash=b1dcd8487ef8b7b30220edec5faddbee}{%
+           family={X},
+           family_i={X\bibinitperiod},
+           given={M.},
+           given_i={M\bibinitperiod}}}%
+        {{hash=a52fc1cb5b98e748e5a6e547d2473985}{%
+           family={Haley},
+           family_i={H\bibinitperiod},
+           given={A.},
+           given_i={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Ballantine Books}%
+      }
+      \strng{namehash}{cb5c70e3d432e3cb251d24621aab7419}
+      \strng{fullhash}{cb5c70e3d432e3cb251d24621aab7419}
+      \field{sortinit}{1}
+      \field{sortinithash}{53e85f4cf497d2a4e1d51786552bcbf1}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Autobiography of Malcolm X}
+      \field{year}{1981}
+      \verb{url}
+      \verb https://books.google.se/books?id=IC2jnQEACAAJ
+      \endverb
+    \endentry
+    \entry{RudgleyR}{book}{}
+      \name{author}{1}{}{%
+        {{hash=4d71a18f4830d73370299e9ab8781509}{%
+           family={R},
+           family_i={R\bibinitperiod},
+           given={Rudgley},
+           given_i={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Thomas Dunne Books. St. Martin's Griffin}%
+      }
+      \strng{namehash}{4d71a18f4830d73370299e9ab8781509}
+      \strng{fullhash}{4d71a18f4830d73370299e9ab8781509}
+      \field{sortinit}{1}
+      \field{sortinithash}{53e85f4cf497d2a4e1d51786552bcbf1}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Encyclopedia of Psychoactive Substances}
+      \field{year}{1998}
+    \endentry
+    \entry{spricigo1999extraction}{article}{}
+      \name{author}{4}{}{%
+        {{hash=bd5c0e1e3510f39ddd1e411bb3bec0cb}{%
+           family={Spricigo},
+           family_i={S\bibinitperiod},
+           given={Cinthia\bibnamedelima Bittencourt},
+           given_i={C\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=a9a30b59b146be3cbb72fb4a94188807}{%
+           family={Pinto},
+           family_i={P\bibinitperiod},
+           given={Leonel\bibnamedelima Teixeira},
+           given_i={L\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=b512566829e29a358f679f42a9154d6f}{%
+           family={Bolzan},
+           family_i={B\bibinitperiod},
+           given={Ariovaldo},
+           given_i={A\bibinitperiod}}}%
+        {{hash=f6963750b528b6ff7c9906fc5d311b35}{%
+           family={Novais},
+           family_i={N\bibinitperiod},
+           given={Adelamar\bibnamedelima Ferreira},
+           given_i={A\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{370492708c8bf701ec8b87d20591d126}
+      \strng{fullhash}{2a0305c0560ab6ef8ce4aca0fc214140}
+      \field{sortinit}{1}
+      \field{sortinithash}{53e85f4cf497d2a4e1d51786552bcbf1}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of supercritical fluids}
+      \field{number}{3}
+      \field{title}{Extraction of essential oil and lipids from nutmeg by liquid carbon dioxide}
+      \field{volume}{15}
+      \field{year}{1999}
+      \field{pages}{253\bibrangedash 259}
+      \range{pages}{7}
+    \endentry
+    \entry{stein2001nutmeg}{article}{}
+      \name{author}{3}{}{%
+        {{hash=e59c1185e37447fd426ca2d54f9c7397}{%
+           family={Stein},
+           family_i={S\bibinitperiod},
+           given={U},
+           given_i={U\bibinitperiod}}}%
+        {{hash=97edd7b9d87f2b9ca51f76360b9b9334}{%
+           family={Greyer},
+           family_i={G\bibinitperiod},
+           given={H},
+           given_i={H\bibinitperiod}}}%
+        {{hash=2a1fdac4c2362acd018c5c5d1742cc3c}{%
+           family={Hentschel},
+           family_i={H\bibinitperiod},
+           given={H},
+           given_i={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{bd85002931c635664bbd13d50b5535f5}
+      \strng{fullhash}{bd85002931c635664bbd13d50b5535f5}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Forensic science international}
+      \field{number}{1}
+      \field{title}{Nutmeg (myristicin) poisoning—report on a fatal case and a series of cases recorded by a poison information centre}
+      \field{volume}{118}
+      \field{year}{2001}
+      \field{pages}{87\bibrangedash 90}
+      \range{pages}{4}
+    \endentry
+    \entry{ratsch2005encyclopedia}{book}{}
+      \name{author}{1}{}{%
+        {{hash=07165da3a7899eb63510687a1b8bbe43}{%
+           family={Rätsch},
+           family_i={R\bibinitperiod},
+           given={Christian},
+           given_i={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Inner Traditions/Bear \& Co}%
+      }
+      \strng{namehash}{07165da3a7899eb63510687a1b8bbe43}
+      \strng{fullhash}{07165da3a7899eb63510687a1b8bbe43}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The encyclopedia of psychoactive plants: ethnopharmacology and its applications}
+      \field{year}{2005}
+    \endentry
+    \entry{entheogenreview}{article}{}
+      \name{author}{1}{}{%
+        {{hash=95086ac5f4e7c45760e4e734c6b82a7b}{%
+           family={Nagano},
+           family_i={N\bibinitperiod},
+           given={I},
+           given_i={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{95086ac5f4e7c45760e4e734c6b82a7b}
+      \strng{fullhash}{95086ac5f4e7c45760e4e734c6b82a7b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Entheogen Review. Vernal}
+      \field{title}{Myristica fragrans: an exploration of the narcotic spice}
+      \field{year}{2008}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

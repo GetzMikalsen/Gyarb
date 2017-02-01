@@ -1,0 +1,233 @@
+%\documentclass{theme/franska}
+\documentclass[a4paper,margin=3.25cm]{article}
+%[a4paper,margin=3.25cm]{geometry}
+
+
+% Filler text
+\usepackage{lipsum}
+\usepackage{verbatim}
+% Footer and header
+\usepackage{fancyhdr}
+
+% Allow bilagor
+\usepackage{standalone}
+
+%nice tables
+\usepackage{booktabs}
+\renewcommand{\arraystretch}{1.2}
+
+
+%bibliography packages
+\usepackage[sorting=ynt]{biblatex}
+\addbibresource{sample.bib}
+\usepackage[nottoc]{tocbibind}
+
+% Language package
+\usepackage[utf8]{inputenc}
+\usepackage[english,swedish]{babel}
+
+%Quotations
+\usepackage{csquotes}
+
+
+%Images
+\usepackage{graphicx}
+\graphicspath{ {bilder/} }
+
+%%Count Words
+
+
+
+
+
+\usepackage{fancyhdr}
+
+% Header and footer
+	\pagestyle{fancy}
+	% Clear headers and footers
+	\fancyhead{}
+	\fancyfoot{}
+	% Remove line in the header
+	\renewcommand{\headrulewidth}{0pt}
+	% Draft, header
+	\fancyhead[C]{--- Utkast ---}
+	% Pagenumber, footer
+	\fancyfoot[C]{\thepage}
+	% Git commit data, footer
+	\fancyfoot[R]{{\tiny Rev: \git}}
+
+%\fancyhead{}
+%\fancyhead[RO,LE]{Thesis Title}
+%\fancyfoot{}
+%\fancyfoot[LE,RO]{\thepage}
+%\fancyfoot[LO,CE]{Chapter \thechapter}
+%\fancyfoot[CO,RE]{Author Name}
+
+
+
+
+
+
+\begin{document}
+
+	% Set main language
+	\selectlanguage{swedish}
+
+	% Frontpage
+
+	%Första sidan räknas inte
+    \clearpage\thispagestyle{empty}\addtocounter{page}{-1}
+
+	\input{framsidan/title}
+
+
+
+	% Select English as language before the Abstract
+	\selectlanguage{english}
+	\begin{abstract}
+%\input{abstract.tex}
+		\lipsum[1-2]
+	\end{abstract}
+
+	\begin{flushleft}
+		{\small {\bf Keywords:} keyword A, keyword B,...}
+	\end{flushleft}
+
+	% Return to Swedish as language
+	\selectlanguage{swedish}
+
+	\tableofcontents
+
+	\clearpage
+
+	\section{Introduktion}
+	\subsection{Syfte}
+\input{introduktion/syfte.tex}
+	\subsection{Bakgrund}
+\input{introduktion/bakgrund.tex}
+	\subsection{Frågeställningar}
+		\lipsum[3-4]
+	\section{Metod}%
+
+\subsection{Litteraturstudie}
+
+	\subsection{Material}
+%		\lipsum[7-8]
+	\subsection{Avgränsningar}
+Avgränsningar som arbetet påverkas av är att data ej kan tillverkas på plats utan
+är lånad från andra institutioner på grund av brist av verktyg samt resurser.
+Detta är förväntat från en rapport på denna nivå och bör ej ses som en brist.
+
+	\section{Disposition}
+
+Dispositionen av detta arbete kommer bestå av en analys av muskotnötens flyktiga oljor
+vars verkan kommer tas upp i resultatet.
+
+Det måste tas upp här hur det finns två klassiska sätt att extrahera de potentiellt intressanta beståndsdelarna av den hela nöten.
+
+\textbf{Fig. 1} \cite{shulgin1967chemistry} visar en ungefärlig distribution som kan förväntas vid användningen av dessa metoder. Processen av extraktion med ett organiskt lösningmedel ger ungefär en tredjedel av den ursprungliga vikten. Denna fraktion är känd som de icke flyktiga oljorna, även känt som smöret av muskotnöt eller ''Oleum Myristicae expressum''. Denna fraktion är väsentligen fri från flyktiga oljor, alltså de förmodade aktiva och består till störst del av triglycerider. Myristinsyra är den huvudsakliga beståndsdelen här, dock finner vi både oljesyra samt linol syra. Den lilla icke fett resten består av icke-sapofinerbara (unsaponifiable) beståndsdelar, mestadels syresatta polyterpener och phytosteroler. \cite{shulgin1967chemistry}
+
+Resultatet från den krossade nöten till ångdestillation avlägsnar från 10 till 15\% av vikten, känd som den flyktiga olje fraktionen.
+
+Överlappningen som visas med den uttryckta fraktionen beror på faktumet att vissa av de flyktiga beståndsdelarna är avlägsnade i lösningsmedelsextraktionen och hålls hårt av de närvarande fasta beståndsdelarna.
+Denna flyktiga fraktion består till mestadels av terpener vilket utgör ungefär 80\% av dess totala vikt.
+
+Resten är den aromatiska fraktionen, bestående av etrar och fenol kroppar.\cite{shulgin1967chemistry}
+
+
+ \centerline{\includegraphics[scale=0.5]{Figure1}}
+
+Det som blir kvar efter dessa processer och extraktioner av de flyktiga oljorna utgör till ett ungefär 50\% av den ursprungliga vikten av muskotnöten. Den är förmodligen en cellulosa liknande massa, och den förblir komplett outforskad i form av någon kemisk analys.
+
+Det måste bli fastställt här hur i väntan på kommande diskussion angående farmakologin av muskotnöt att ingen definitiv utvärdering av dessa fraktioner (fetterna och massan) har blivit gjorda. Det är dock, generellt accepterat att det är den flyktiga oljans fraktion som man måste vända sig till för de aktiva beståndsdelarna av muskotnöten, och det är denna ''Olja av Muskotnöt'' som är erkänd av den Amerikanska Farmakopén som en medicin.
+
+Denna flyktiga olja innefattar mellan en åttondel och en tolvtedel av den hela nöten och är saken för denna studie.
+
+
+\hbox{\hspace{-0.1cm}\includegraphics[scale=0.75]{GCgraph}}
+
+\begin{minipage}[t]{2cm}
+\flushleft
+\textsc{\textbf{Fig. 2}}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{2cm}
+\flushright
+\textsc{\textbf{Fig. 3}}
+\end{minipage}
+
+
+\begin{table}[!htbp]
+\small
+\centering
+\caption{GC analys av muskotnötens flyktiga olja vid 90 bar - $23\,^{\circ}\mathrm{C}$}
+\begin{tabular*}{\textwidth}{l @{\extracolsep{\fill}} @{}cll@{}}
+\toprule
+Topp nummer & \ Retentions tid (min) & Yta (\%) & Identifikation                                      \\ \midrule
+1           & 2.880                & 11.0520   & $\alpha$-pinene                                      \\
+3           & 3.898                & 10.1872   & $\beta$-pinene                                       \\
+4           & 4.175                & 36.6348   & sabinene                                            \\
+6           & 4.763                & 3.1476    & myrcene                                             \\
+8           & 5.470                & 3.7710    & limonene                                            \\
+9           & 5.655                & 2.2727    & $\beta$-phelandrene                                  \\
+10          & 6.545                & 1.8826    & $\gamma$-terpinene                                   \\
+11          & 7.097                & 1.6559    & cymene                                              \\
+14          & 11.287               & 1.8101    & \textbf{cis*}   \\
+17          & 12.658               & 1.7945    & \textbf{trans*} \\
+21          & 13.455               & 3.6766    & terpinen-4-ol                                       \\
+30          & 16.907               & 1.0075    & safrol                                              \\
+36          & 20.907               & 3.2933    & elemicin                                            \\
+37          & 21.393               & 6.9835    & myristicin                                          \\ \bottomrule
+\end{tabular*}
+\note{\textbf{cis*} = 1-methyl-4(1-methylethyl)2-cyclohexen-1-ol (cis)
+\\
+\textbf{trans*} = 1-methyl-4(1-methylethyl)2-cyclohexen-1-ol (trans)}
+
+\end{table}
+
+En bestämmande analys av denna flyktiga olja har lånats av \cite{spricigo1999extraction}.
+Till denna analys användes hela muskotnötter som levererats av Bretzke Alimentos \textit{(Jaraguá do Sul, SC, Brazil)}. De maldes med en kaffekvarn, efter det utfördes
+en extraktion av de flyktiga oljorna. Extraktionen utfördes med en ångdestillation enligt metoden beskriven av ``The American Spice Trade Association'' för bestämmandet av flyktiga oljor
+\cite[citerad av Ferreira]{spricigo1999extraction}.
+\textbf{Fig. 2} visar en GC analys av den hela flyktiga olje fraktionen erhållen
+från proceduren. Tabell 1 visar en identifikation av de större topparna.
+Från detta resultat kan det visas hur huvudämnena av den flyktiga oljan är $\alpha$-pinene, $\beta$-pinene, sabinene samt myristicin, den karaktärsgivande aromatiska beståndsdelen av muskotnöt.
+
+\textbf{Fig. 3} utgår, det är en identifikation av de fett syrorna som återfinns i den icke flyktiga olje fraktionen av muskotnöt, tillhörande tabell ingår ej i denna rapport men kan finnas i \cite[s.258]{spricigo1999extraction}
+
+
+
+
+
+%dessa resultat verkar visa en stor diskrepans mellan muskot från olika geografiska källor, gör en komparativ analys, citera shulgin.
+
+
+%Nu ska jag börja gå in på vad den flyktiga oljan består av och vissa likheter mellan myristicin samt tma osv, norsk källa här.
+
+%Ska infoga figur 2 vilket ska vara en ms/gs graf och förklara den.
+
+%Jag ska komma fram till att muskokot = myristicin/elemicin innan jag börjar med resultatet.
+
+%Vad muskotnöt består av här, grafer osv1
+
+	\subsection{Resultat}
+
+
+	\subsection{Diskussion}
+%		\lipsum[13-14]
+\pagebreak
+%	\section{Bilagor}
+%\subsection{Bilaga 1}
+%\input{bilagor/bilaga1.tex}
+%\subsection{Bilaga 2}
+%\input{bilagor/bilaga2.tex}
+%\subsection{Bilaga 3}
+%\input{bilagor/bilaga3.tex}
+%	\pagebreak
+
+
+\printbibliography
+
+
+
+\end{document}
