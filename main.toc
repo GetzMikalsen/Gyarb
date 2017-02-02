@@ -38,7 +38,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{H\IeC {\"o}g (20-25 gram eller 2-2.5 msk)}{6}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Icke rekommenderad 25+ gram eller 2.5+ msk}{6}
+\contentsline {paragraph}{Icke rekommenderad (25+ gram eller 2.5+ msk)}{6}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.3}Fr\IeC {\r a}gest\IeC {\"a}llningar}{7}
 \defcounter {refsection}{0}\relax 
