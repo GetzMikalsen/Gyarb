@@ -26,7 +26,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {1.2.6}Effekter av Muskotn\IeC {\"o}t}{5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.2.7}Dosering}{6}
+\contentsline {subsubsection}{\numberline {1.2.7}Dosering av Muskotn\IeC {\"o}t}{6}
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{Tr\IeC {\"o}skel (3-5 gram eller 1-1.5 tsk)}{6}
 \defcounter {refsection}{0}\relax 
