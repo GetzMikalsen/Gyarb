@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.1.25)  2 FEB 2017 23:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.1.25)  3 FEB 2017 11:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -917,25 +917,10 @@ and I'll forget about whatever was undefined.
 [2
 
 ]
-/home/getz/Documents/Gymnasie Arbete/introduktion/bakgrund.tex:66: Misplaced alignment tab character &.
-l.66 ...good tonic, and make you strong (Rätsch &
-                                                   Müller-
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-
-Overfull \hbox (3.91824pt too wide) in paragraph at lines 69--71
-[]\OT1/cmr/m/n/10 R[]atsch, C. and C. M[]uller-Ebeling 2006. Pa-gan Christ-mas: The Plants,
- []
-
-/home/getz/Documents/Gymnasie Arbete/introduktion/bakgrund.tex:85: Undefined control sequence.
+/home/getz/Documents/Gymnasie Arbete/introduktion/bakgrund.tex:77: Undefined control sequence.
 \f@ncyorf ->{\tiny Rev: \git 
                              }\strut 
-l.85 
+l.77 
      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -944,14 +929,14 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 [3]
-Overfull \hbox (4.38954pt too wide) in paragraph at lines 98--101
+Overfull \hbox (4.38954pt too wide) in paragraph at lines 83--86
 \OT1/cmr/m/n/10 Det finns in-te myc-ket un-der-lag ang^^Waende hur mus-kotn[]ot sam-spe-lar med dr[]ommar.
  []
 
-/home/getz/Documents/Gymnasie Arbete/introduktion/bakgrund.tex:142: Undefined control sequence.
+/home/getz/Documents/Gymnasie Arbete/introduktion/bakgrund.tex:127: Undefined control sequence.
 \f@ncyorf ->{\tiny Rev: \git 
                              }\strut 
-l.142 
+l.127 
       
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -960,27 +945,40 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 [4]
-Overfull \hbox (6.63968pt too wide) in paragraph at lines 161--165
+Overfull \hbox (6.63968pt too wide) in paragraph at lines 136--140
 \OT1/cmr/m/n/10 Psykologiska ef-fek-ter av mus-kotn[]ot in-ne-fat-tar, torr mun, il-lam^^Waende, hj[]artrusning,
  []
 
 
-/home/getz/Documents/Gymnasie Arbete/introduktion/bakgrund.tex:173: LaTeX Error: There's no line here to end.
+/home/getz/Documents/Gymnasie Arbete/introduktion/bakgrund.tex:148: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.173 
+l.148 
       
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-/home/getz/Documents/Gymnasie Arbete/introduktion/bakgrund.tex:197: Undefined control sequence.
+
+/home/getz/Documents/Gymnasie Arbete/introduktion/bakgrund.tex:174: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.174 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/home/getz/Documents/Gymnasie Arbete/introduktion/bakgrund.tex:181: Undefined control sequence.
 \f@ncyorf ->{\tiny Rev: \git 
                              }\strut 
-l.197 
+l.181 
       
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -989,21 +987,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 [5]
-
-/home/getz/Documents/Gymnasie Arbete/introduktion/bakgrund.tex:199: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.199 
-      
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-Overfull \hbox (2.91743pt too wide) in paragraph at lines 208--211
+Overfull \hbox (2.91743pt too wide) in paragraph at lines 183--186
 \OT1/cmr/m/n/10 f[]orvr[]angningar, CEVs, samt h[]orselhallucinationer. Kort-tids-min-net kan f[]ors[]amras
  []
 
@@ -1020,19 +1004,10 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 [6]
-Overfull \hbox (2.73665pt too wide) in paragraph at lines 132--133
-[]\OT1/cmr/bx/n/10 Fig. 1 \OT1/cmr/m/n/10 [2] vi-sar en un-gef[]arlig dis-tri-bu-tion som kan f[]orv[]antas vid anv[]andningen
- []
-
-
-Overfull \hbox (9.97296pt too wide) in paragraph at lines 136--138
-\OT1/cmr/m/n/10 att vis-sa av de flyk-ti-ga best^^Wandsdelarna []ar avl[]agsnade i l[]osningsmedelsextraktionen
- []
-
-/home/getz/Documents/Gymnasie Arbete/main.tex:138: Undefined control sequence.
+/home/getz/Documents/Gymnasie Arbete/main.tex:126: Undefined control sequence.
 \f@ncyorf ->{\tiny Rev: \git 
                              }\strut 
-l.138 
+l.126 
       
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1040,27 +1015,49 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[7] <bilder/Figure1.png, id=41, 632.3625pt x 380.42125pt>
+[7]
+Overfull \hbox (2.73665pt too wide) in paragraph at lines 134--135
+[]\OT1/cmr/bx/n/10 Fig. 1 \OT1/cmr/m/n/10 [2] vi-sar en un-gef[]arlig dis-tri-bu-tion som kan f[]orv[]antas vid anv[]andningen
+ []
+
+
+Overfull \hbox (9.97296pt too wide) in paragraph at lines 138--140
+\OT1/cmr/m/n/10 att vis-sa av de flyk-ti-ga best^^Wandsdelarna []ar avl[]agsnade i l[]osningsmedelsextraktionen
+ []
+
+<bilder/Figure1.png, id=41, 632.3625pt x 380.42125pt>
 File: bilder/Figure1.png Graphic file (type png)
  <use bilder/Figure1.png>
-Package pdftex.def Info: bilder/Figure1.png used on input line 142.
+Package pdftex.def Info: bilder/Figure1.png used on input line 144.
 (pdftex.def)             Requested size: 316.18048pt x 190.21014pt.
  <bilder/GCgraph.png, id=42, 459.6372pt x 252.2223pt>
 File: bilder/GCgraph.png Graphic file (type png)
  <use bilder/GCgraph.png>
-Package pdftex.def Info: bilder/GCgraph.png used on input line 151.
+Package pdftex.def Info: bilder/GCgraph.png used on input line 153.
 (pdftex.def)             Requested size: 344.72705pt x 189.16626pt.
 
+/home/getz/Documents/Gymnasie Arbete/main.tex:155: Undefined control sequence.
+\f@ncyorf ->{\tiny Rev: \git 
+                             }\strut 
+l.155 \begin{minipage}[t]{2cm}
+                              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[8 </home/getz/Documents/Gymnasie Arbete/bilder/Figure1.png>]
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
-(Font)              using `OT1/cmr/bx/n' instead on input line 155.
+(Font)              using `OT1/cmr/bx/n' instead on input line 157.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 168.
+(Font)              <9> on input line 170.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 168.
-/home/getz/Documents/Gymnasie Arbete/main.tex:186: Undefined control sequence.
-l.186 \note
+(Font)              <6> on input line 170.
+/home/getz/Documents/Gymnasie Arbete/main.tex:188: Undefined control sequence.
+l.188 \note
            {\textbf{cis*} = 1-methyl-4(1-methylethyl)2-cyclohexen-1-ol (cis)
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1068,41 +1065,29 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/home/getz/Documents/Gymnasie Arbete/main.tex:190: Undefined control sequence.
-\f@ncyorf ->{\tiny Rev: \git 
-                             }\strut 
-l.190 \end{table}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-[8 </home/getz/Documents/Gymnasie Arbete/bilder/Figure1.png> </home/getz/Documents/Gymnasie Arbete/bilder/GCgraph.png>]
-
-/home/getz/Documents/Gymnasie Arbete/main.tex:193: Package inputenc Error: Unicode char ́ (U+301)
+/home/getz/Documents/Gymnasie Arbete/main.tex:195: Package inputenc Error: Unicode char ́ (U+301)
 (inputenc)                not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.193 ...s \textit{(Jaraguá do Sul, SC, Brazil)}
+l.195 ...s \textit{(Jaraguá do Sul, SC, Brazil)}
                                                   . De maldes med en kaffekv...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (23.94513pt too wide) in paragraph at lines 192--199
+Overfull \hbox (23.94513pt too wide) in paragraph at lines 194--201
 \OT1/cmr/m/n/10 ligt me-to-den be-skri-ven av ``The Ame-ri-can Spice Tra-de As-so-ci-a-tion'' f[]or best[]ammandet
  []
 
-/home/getz/Documents/Gymnasie Arbete/main.tex:231: Undefined control sequence.
+/home/getz/Documents/Gymnasie Arbete/main.tex:203: Undefined control sequence.
 \f@ncyorf ->{\tiny Rev: \git 
                              }\strut 
-l.231 
+l.203 
       
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1110,15 +1095,27 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[9]
-Overfull \hbox (6.77446pt too wide) in paragraph at lines 234--234
+[9 </home/getz/Documents/Gymnasie Arbete/bilder/GCgraph.png>]
+/home/getz/Documents/Gymnasie Arbete/main.tex:233: Undefined control sequence.
+\f@ncyorf ->{\tiny Rev: \git 
+                             }\strut 
+l.233 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[10]
+Overfull \hbox (6.77446pt too wide) in paragraph at lines 236--236
 []\OT1/cmr/m/n/10 U Ste-in, H Grey-er och H Hents-chel. "  Nut-meg (my-ris-ti-cin) poi-so-ning|report
  []
 
-/home/getz/Documents/Gymnasie Arbete/main.tex:237: Undefined control sequence.
+/home/getz/Documents/Gymnasie Arbete/main.tex:239: Undefined control sequence.
 \f@ncyorf ->{\tiny Rev: \git 
                              }\strut 
-l.237 \end{document}
+l.239 \end{document}
                     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1126,7 +1123,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[10] (/home/getz/Documents/Gymnasie Arbete/main.aux)
+[11] (/home/getz/Documents/Gymnasie Arbete/main.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1135,19 +1132,19 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 9997 strings out of 494374
- 165457 string characters out of 6164954
- 679216 words of memory out of 5000000
- 13128 multiletter control sequences out of 15000+600000
+ 9998 strings out of 494374
+ 165494 string characters out of 6164954
+ 678232 words of memory out of 5000000
+ 13129 multiletter control sequences out of 15000+600000
  8752 words of font info for 31 fonts, out of 8000000 for 9000
  350 hyphenation exceptions out of 8191
- 67i,10n,50p,949b,1637s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 67i,11n,50p,949b,1637s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmtt10.pfb>
-Output written on "/home/getz/Documents/Gymnasie Arbete/main.pdf" (11 pages, 329032 bytes).
+Output written on "/home/getz/Documents/Gymnasie Arbete/main.pdf" (12 pages, 330403 bytes).
 PDF statistics:
- 102 PDF objects out of 1000 (max. 8388607)
- 69 compressed objects within 1 object stream
+ 105 PDF objects out of 1000 (max. 8388607)
+ 71 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 

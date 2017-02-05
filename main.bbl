@@ -266,6 +266,35 @@
       \field{title}{The encyclopedia of psychoactive plants: ethnopharmacology and its applications}
       \field{year}{2005}
     \endentry
+    \entry{ratsch2006pagan}{book}{}
+      \name{author}{2}{}{%
+        {{hash=65ea1ec5f541de9d242707f9f2822e38}{%
+           family={Rätsch},
+           family_i={R\bibinitperiod},
+           given={C.},
+           given_i={C\bibinitperiod}}}%
+        {{hash=cebc6167e135172be73541b54d7aaf68}{%
+           family={Müller-Ebeling},
+           family_i={M\bibinithyphendelim E\bibinitperiod},
+           given={C.},
+           given_i={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Inner Traditions/Bear}%
+      }
+      \strng{namehash}{1c7c1ec96b1768fb95a5df1d0b727063}
+      \strng{fullhash}{1c7c1ec96b1768fb95a5df1d0b727063}
+      \field{sortinit}{2}
+      \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781594776601}
+      \field{title}{Pagan Christmas: The Plants, Spirits, and Rituals at the Origins of Yuletide}
+      \field{year}{2006}
+      \verb{url}
+      \verb https://books.google.se/books?id=k89rAwAAQBAJ
+      \endverb
+    \endentry
     \entry{entheogenreview}{article}{}
       \name{author}{1}{}{%
         {{hash=95086ac5f4e7c45760e4e734c6b82a7b}{%

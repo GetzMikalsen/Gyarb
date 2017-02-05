@@ -2052,22 +2052,23 @@
     <bcf:citekey order="4">weil1967nutmeg</bcf:citekey>
     <bcf:citekey order="5">entheogenreview</bcf:citekey>
     <bcf:citekey order="6">entheogenreview</bcf:citekey>
-    <bcf:citekey order="7">ratsch2005encyclopedia</bcf:citekey>
-    <bcf:citekey order="8">RudgleyR</bcf:citekey>
-    <bcf:citekey order="9">ratsch2005encyclopedia</bcf:citekey>
-    <bcf:citekey order="10">entheogenreview</bcf:citekey>
-    <bcf:citekey order="11">RudgleyR</bcf:citekey>
-    <bcf:citekey order="12">stein2001nutmeg</bcf:citekey>
-    <bcf:citekey order="13">malcolmx</bcf:citekey>
-    <bcf:citekey order="14">entheogenreview</bcf:citekey>
+    <bcf:citekey order="7">ratsch2006pagan</bcf:citekey>
+    <bcf:citekey order="8">ratsch2005encyclopedia</bcf:citekey>
+    <bcf:citekey order="9">RudgleyR</bcf:citekey>
+    <bcf:citekey order="10">ratsch2005encyclopedia</bcf:citekey>
+    <bcf:citekey order="11">entheogenreview</bcf:citekey>
+    <bcf:citekey order="12">RudgleyR</bcf:citekey>
+    <bcf:citekey order="13">stein2001nutmeg</bcf:citekey>
+    <bcf:citekey order="14">malcolmx</bcf:citekey>
     <bcf:citekey order="15">entheogenreview</bcf:citekey>
     <bcf:citekey order="16">entheogenreview</bcf:citekey>
-    <bcf:citekey order="17">shulgin1967chemistry</bcf:citekey>
+    <bcf:citekey order="17">entheogenreview</bcf:citekey>
     <bcf:citekey order="18">shulgin1967chemistry</bcf:citekey>
     <bcf:citekey order="19">shulgin1967chemistry</bcf:citekey>
-    <bcf:citekey order="20">spricigo1999extraction</bcf:citekey>
+    <bcf:citekey order="20">shulgin1967chemistry</bcf:citekey>
     <bcf:citekey order="21">spricigo1999extraction</bcf:citekey>
     <bcf:citekey order="22">spricigo1999extraction</bcf:citekey>
+    <bcf:citekey order="23">spricigo1999extraction</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="ynt/global" type="entry" sortscheme="ynt" sortnamekeyscheme="global">
   <bcf:sorting>
