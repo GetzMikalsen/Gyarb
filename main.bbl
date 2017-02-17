@@ -19,6 +19,42 @@
 
 \refsection{0}
   \sortlist[entry]{ynt/global}
+    \entry{truitt}{article}{}
+      \name{author}{4}{}{%
+        {{hash=d8de84396ba1e3ae773d606946d5d1ee}{%
+           family={Truitt\bibnamedelima Jr},
+           family_i={T\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={EB},
+           given_i={E\bibinitperiod}}}%
+        {{hash=f1427b7834f5c973505f84996e80c9fd}{%
+           family={CALLAWAY\bibnamedelima 3rd},
+           family_i={C\bibinitperiod\bibinitdelim 3\bibinitperiod},
+           given={E},
+           given_i={E\bibinitperiod}}}%
+        {{hash=19f6d77bf85f34e06025b399379026a2}{%
+           family={Braude},
+           family_i={B\bibinitperiod},
+           given={MC},
+           given_i={M\bibinitperiod}}}%
+        {{hash=3f2a096c195119c42e78df54eba97812}{%
+           family={Krantz\bibnamedelima Jr},
+           family_i={K\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={JC},
+           given_i={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{62a3c0fba09c58dbca928855f28ee643}
+      \strng{fullhash}{0884e64aa13ac15514b3695095dc91c3}
+      \field{sortinit}{1}
+      \field{sortinithash}{53e85f4cf497d2a4e1d51786552bcbf1}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of neuropsychiatry}
+      \field{title}{The pharmacology of myristicin. A contribution to the psychopharmacology of nutmeg.}
+      \field{volume}{2}
+      \field{year}{1961}
+      \field{pages}{205\bibrangedash 210}
+      \range{pages}{6}
+    \endentry
     \entry{kreig1965green}{book}{}
       \name{author}{1}{}{%
         {{hash=869712863dd25c89f7d0e81dda2d362b}{%
