@@ -1,13 +1,13 @@
 # Fdb version 3
-["biber main"] 1486118241 "main.bcf" "main.bbl" "main" 1486317217
-  "main.bcf" 1486118601 92498 36804bc4f856d2b4e63694e4ea102e67 ""
+["biber main"] 1486118241 "main.bcf" "main.bbl" "main" 1487345392
+  "main.bcf" 1487345392 92498 36804bc4f856d2b4e63694e4ea102e67 ""
   "sample.bib" 1486118178 4286 4a0aed532410e06ae5c79fd304d0a48c ""
   (generated)
   "main.blg"
   "main.bbl"
-["pdflatex"] 1486118600 "main.tex" "/home/getz/Documents/Gymnasie Arbete/main.pdf" "main" 1486317217
+["pdflatex"] 1487345389 "main.tex" "/home/getz/Documents/Gymnasie Arbete/main.pdf" "main" 1487345392
   "/etc/texmf/web2c/texmf.cnf" 1485261268 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/getz/Documents/Gymnasie Arbete/main.aux" 1486118601 5770 a52b55bd60ec1c9b28edb21fe2608874 ""
+  "/home/getz/Documents/Gymnasie Arbete/main.aux" 1487345392 5770 274d5f0140307d5d175bf0ba4b146111 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -114,21 +114,22 @@
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1485367424 2339133 4f8555bcfc6db2670530f233948b62db ""
   "bilder/Figure1.png" 1485546868 54653 7015ba62dcfc5fa7cb0e6e71ab3a02ec ""
   "bilder/GCgraph.png" 1485892615 46600 0d1fd5fb3a6ff97440fd76fa57cec323 ""
+  "bilder/Tabell2.png" 1487344683 95501 cab6bbfac1fe79dce0e89bdc8f23d378 ""
   "bilder/logo.png" 1485343942 41763 860f9ca70078c997ca4c5f0d2519ce57 ""
   "framsidan/title.tex" 1485867956 989 96d9ee4a76afdd8106e89fcad6583afd ""
   "introduktion/bakgrund.tex" 1486118597 16018 9249a6f09f108dbf18277e862f5a741d ""
   "introduktion/syfte.tex" 1485343942 1962 08a6e425fbd8ab96536956ef7124eade ""
-  "main.aux" 1486118601 5770 a52b55bd60ec1c9b28edb21fe2608874 ""
+  "main.aux" 1487345392 5770 274d5f0140307d5d175bf0ba4b146111 ""
   "main.bbl" 1486118243 11781 5adc3a0b17913d860581c5db6faf1b8a "biber main"
-  "main.run.xml" 1486118601 2333 cedf8c189a252dc28e7fb7410d99e5a5 ""
-  "main.tex" 1486317216 8965 8846464eeff5c9ae5d3714d174f8493a ""
-  "main.toc" 1486118601 2972 f8f1b1439683d58382a0723508d542b9 ""
+  "main.run.xml" 1487345392 2333 cedf8c189a252dc28e7fb7410d99e5a5 ""
+  "main.tex" 1487345389 11522 a7e763583b52cb0ab052bf2ee3bc7ef7 ""
+  "main.toc" 1487345392 2972 79167ba29e472889a32955c03cb9c955 ""
   (generated)
+  "/home/getz/Documents/Gymnasie Arbete/main.log"
   "main.log"
+  "/home/getz/Documents/Gymnasie Arbete/main.pdf"
+  "main.run.xml"
   "main.aux"
   "main.pdf"
   "main.bcf"
-  "/home/getz/Documents/Gymnasie Arbete/main.pdf"
-  "main.run.xml"
   "main.toc"
-  "/home/getz/Documents/Gymnasie Arbete/main.log"

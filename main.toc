@@ -52,6 +52,6 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3}Disposition}{8}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1}Resultat}{10}
+\contentsline {subsection}{\numberline {3.1}Resultat}{11}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2}Diskussion}{10}
+\contentsline {subsection}{\numberline {3.2}Diskussion}{11}
