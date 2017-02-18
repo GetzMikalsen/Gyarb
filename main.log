@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.1.25)  18 FEB 2017 11:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.1.25)  18 FEB 2017 19:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1029,12 +1029,12 @@ Overfull \hbox (9.97296pt too wide) in paragraph at lines 139--141
 File: bilder/Figure1.png Graphic file (type png)
  <use bilder/Figure1.png>
 Package pdftex.def Info: bilder/Figure1.png used on input line 145.
-(pdftex.def)             Requested size: 362.0088pt x 237.79915pt.
+(pdftex.def)             Requested size: 324.2085pt x 212.96858pt.
 
-/home/getz/Documents/Gymnasie Arbete/main.tex:151: Undefined control sequence.
+/home/getz/Documents/Gymnasie Arbete/main.tex:153: Undefined control sequence.
 \f@ncyorf ->{\tiny Rev: \git 
                              }\strut 
-l.151 
+l.153 
       
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1099,8 +1099,8 @@ and I'll forget about whatever was undefined.
 /home/getz/Documents/Gymnasie Arbete/main.tex:247: Undefined control sequence.
 \f@ncyorf ->{\tiny Rev: \git 
                              }\strut 
-l.247 \centered
-               {\caption{\textbf{Tabell 2}}
+l.247 
+      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -1108,10 +1108,8 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 [10]
-/home/getz/Documents/Gymnasie Arbete/main.tex:247: Undefined control sequence.
-<recently read> \centered 
-                          
-l.247 \centered
+/home/getz/Documents/Gymnasie Arbete/main.tex:248: Undefined control sequence.
+l.248 \centered
                {\caption{\textbf{Tabell 2}}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1120,13 +1118,13 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-/home/getz/Documents/Gymnasie Arbete/main.tex:247: LaTeX Error: \caption outside float.
+/home/getz/Documents/Gymnasie Arbete/main.tex:248: LaTeX Error: \caption outside float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.247 \centered{\caption
+l.248 \centered{\caption
                         {\textbf{Tabell 2}}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1134,13 +1132,13 @@ If that doesn't work, type  X <return>  to quit.
 <bilder/Tabell2.png, id=57, 3570.33875pt x 2795.44376pt>
 File: bilder/Tabell2.png Graphic file (type png)
  <use bilder/Tabell2.png>
-Package pdftex.def Info: bilder/Tabell2.png used on input line 249.
+Package pdftex.def Info: bilder/Tabell2.png used on input line 250.
 (pdftex.def)             Requested size: 428.42216pt x 335.43878pt.
 
-/home/getz/Documents/Gymnasie Arbete/main.tex:268: Undefined control sequence.
+/home/getz/Documents/Gymnasie Arbete/main.tex:269: Undefined control sequence.
 \f@ncyorf ->{\tiny Rev: \git 
                              }\strut 
-l.268 
+l.269 
       
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1149,11 +1147,30 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 [11 </home/getz/Documents/Gymnasie Arbete/bilder/Tabell2.png>]
-/home/getz/Documents/Gymnasie Arbete/main.tex:309: Undefined control sequence.
+Overfull \hbox (25.88968pt too wide) in paragraph at lines 305--306
+[]\OT1/cmr/m/n/10 Ringsubstitutionen f[]or des-sa []amnen fr^^Wan den aro-ma-tis-ka frak-tio-nen []ar m[]arkv[]ardiga
+ []
+
+/home/getz/Documents/Gymnasie Arbete/main.tex:314: Undefined control sequence.
+l.314 ... troliga mekanismen för en sådan \texit
+                                                  {in vivo} modifikation har...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<bilder/Figure4.png, id=62, 3034.33624pt x 2482.27374pt>
+File: bilder/Figure4.png Graphic file (type png)
+ <use bilder/Figure4.png>
+Package pdftex.def Info: bilder/Figure4.png used on input line 325.
+(pdftex.def)             Requested size: 341.37125pt x 279.26268pt.
+
+/home/getz/Documents/Gymnasie Arbete/main.tex:327: Undefined control sequence.
 \f@ncyorf ->{\tiny Rev: \git 
                              }\strut 
-l.309 
-      
+l.327 	\begin{center}
+                     \textbf{Fig. 4.}\end{center}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -1161,14 +1178,26 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 [12]
-Overfull \hbox (6.77446pt too wide) in paragraph at lines 312--312
+/home/getz/Documents/Gymnasie Arbete/main.tex:369: Undefined control sequence.
+\f@ncyorf ->{\tiny Rev: \git 
+                             }\strut 
+l.369 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[13 </home/getz/Documents/Gymnasie Arbete/bilder/Figure4.png>]
+Overfull \hbox (6.77446pt too wide) in paragraph at lines 372--372
 []\OT1/cmr/m/n/10 U Ste-in, H Grey-er och H Hents-chel. "  Nut-meg (my-ris-ti-cin) poi-so-ning|report
  []
 
-/home/getz/Documents/Gymnasie Arbete/main.tex:315: Undefined control sequence.
+/home/getz/Documents/Gymnasie Arbete/main.tex:375: Undefined control sequence.
 \f@ncyorf ->{\tiny Rev: \git 
                              }\strut 
-l.315 \end{document}
+l.375 \end{document}
                     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1176,7 +1205,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[13] (/home/getz/Documents/Gymnasie Arbete/main.aux)
+[14] (/home/getz/Documents/Gymnasie Arbete/main.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1186,22 +1215,22 @@ Package logreq Info: Writing requests to 'main.run.xml'.
  )
 (\end occurred inside a group at level 1)
 
-### simple group (level 1) entered at line 247 ({)
+### simple group (level 1) entered at line 248 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 10005 strings out of 494374
- 165632 string characters out of 6164954
+ 10009 strings out of 494374
+ 165726 string characters out of 6164954
  678239 words of memory out of 5000000
- 13135 multiletter control sequences out of 15000+600000
+ 13138 multiletter control sequences out of 15000+600000
  8752 words of font info for 31 fonts, out of 8000000 for 9000
  350 hyphenation exceptions out of 8191
- 67i,10n,50p,949b,1699s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 67i,10n,50p,949b,1703s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/
 public/amsfonts/cm/cmtt10.pfb>
-Output written on "/home/getz/Documents/Gymnasie Arbete/main.pdf" (14 pages, 652012 bytes).
+Output written on "/home/getz/Documents/Gymnasie Arbete/main.pdf" (15 pages, 739190 bytes).
 PDF statistics:
- 115 PDF objects out of 1000 (max. 8388607)
- 76 compressed objects within 1 object stream
+ 120 PDF objects out of 1000 (max. 8388607)
+ 78 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
