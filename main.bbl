@@ -183,9 +183,31 @@
       \field{labeltitlesource}{title}
       \field{title}{The Autobiography of Malcolm X}
       \field{year}{1981}
-      \verb{url}
-      \verb https://books.google.se/books?id=IC2jnQEACAAJ
-      \endverb
+    \endentry
+    \entry{shulgin1995pihkal}{book}{}
+      \name{author}{2}{}{%
+        {{hash=ccf85273e92f5e412bd3d231f669ea28}{%
+           family={Shulgin},
+           family_i={S\bibinitperiod},
+           given={Alexander},
+           given_i={A\bibinitperiod}}}%
+        {{hash=f7f2dc506a9fedff1d0d922ba82680fa}{%
+           family={Shulgin},
+           family_i={S\bibinitperiod},
+           given={Ann},
+           given_i={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Transform Press}%
+      }
+      \strng{namehash}{493a848e88db2a2eb44da72dcd82edfe}
+      \strng{fullhash}{493a848e88db2a2eb44da72dcd82edfe}
+      \field{sortinit}{1}
+      \field{sortinithash}{53e85f4cf497d2a4e1d51786552bcbf1}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{PIHKAL: a chemical love story}
+      \field{year}{1995}
     \endentry
     \entry{RudgleyR}{book}{}
       \name{author}{1}{}{%
@@ -327,9 +349,6 @@
       \field{isbn}{9781594776601}
       \field{title}{Pagan Christmas: The Plants, Spirits, and Rituals at the Origins of Yuletide}
       \field{year}{2006}
-      \verb{url}
-      \verb https://books.google.se/books?id=k89rAwAAQBAJ
-      \endverb
     \endentry
     \entry{entheogenreview}{article}{}
       \name{author}{1}{}{%

@@ -199,7 +199,6 @@ INPUT /home/getz/Documents/Gymnasie Arbete/bilder/Tabell2.png
 INPUT /home/getz/Documents/Gymnasie Arbete/bilder/Figure4.png
 INPUT /home/getz/Documents/Gymnasie Arbete/bilder/Figure4.png
 INPUT /home/getz/Documents/Gymnasie Arbete/bilder/Figure4.png
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm
 INPUT /home/getz/Documents/Gymnasie Arbete/main.aux
 INPUT /home/getz/Documents/Gymnasie Arbete/main.run.xml
 OUTPUT /home/getz/Documents/Gymnasie Arbete/main.run.xml
@@ -216,4 +215,3 @@ INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb
-INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb
