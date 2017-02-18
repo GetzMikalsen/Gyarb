@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.1.25)  17 FEB 2017 20:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.1.25)  18 FEB 2017 11:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -723,18 +723,18 @@ LaTeX Warning: Unused global option(s):
 (/home/getz/Documents/Gymnasie Arbete/main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
  (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count288
@@ -775,8 +775,8 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (/home/getz/Documents/Gymnasie Arbete/main.bbl)
-Package biblatex Info: Reference section=0 on input line 75.
-Package biblatex Info: Reference segment=0 on input line 75.
+Package biblatex Info: Reference section=0 on input line 76.
+Package biblatex Info: Reference segment=0 on input line 76.
  (/home/getz/Documents/Gymnasie Arbete/framsidan/title.tex
 
 /home/getz/Documents/Gymnasie Arbete/framsidan/title.tex:1: LaTeX Error: Environment titlingpage undefined.
@@ -887,10 +887,10 @@ or  <return>  to continue without it.
 \openout4 = `main.toc'.
 
 
-/home/getz/Documents/Gymnasie Arbete/main.tex:105: Undefined control sequence.
+/home/getz/Documents/Gymnasie Arbete/main.tex:106: Undefined control sequence.
 \f@ncyorf ->{\tiny Rev: \git 
                              }\strut 
-l.105 	\clearpage
+l.106 	\clearpage
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -933,10 +933,10 @@ Overfull \hbox (4.38954pt too wide) in paragraph at lines 83--86
 \OT1/cmr/m/n/10 Det finns in-te myc-ket un-der-lag ang^^Waende hur mus-kotn[]ot sam-spe-lar med dr[]ommar.
  []
 
-/home/getz/Documents/Gymnasie Arbete/introduktion/bakgrund.tex:127: Undefined control sequence.
+/home/getz/Documents/Gymnasie Arbete/introduktion/bakgrund.tex:121: Undefined control sequence.
 \f@ncyorf ->{\tiny Rev: \git 
                              }\strut 
-l.127 
+l.121 
       
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -975,10 +975,10 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-/home/getz/Documents/Gymnasie Arbete/introduktion/bakgrund.tex:181: Undefined control sequence.
+/home/getz/Documents/Gymnasie Arbete/introduktion/bakgrund.tex:176: Undefined control sequence.
 \f@ncyorf ->{\tiny Rev: \git 
                              }\strut 
-l.181 
+l.176 
       
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -992,10 +992,10 @@ Overfull \hbox (2.91743pt too wide) in paragraph at lines 183--186
  []
 
 )
-/home/getz/Documents/Gymnasie Arbete/main.tex:113: Undefined control sequence.
+/home/getz/Documents/Gymnasie Arbete/main.tex:114: Undefined control sequence.
 \f@ncyorf ->{\tiny Rev: \git 
                              }\strut 
-l.113 		\lipsum[3-4]
+l.114 		\lipsum[3-4]
                     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1004,10 +1004,10 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 [6]
-/home/getz/Documents/Gymnasie Arbete/main.tex:126: Undefined control sequence.
+/home/getz/Documents/Gymnasie Arbete/main.tex:127: Undefined control sequence.
 \f@ncyorf ->{\tiny Rev: \git 
                              }\strut 
-l.126 
+l.127 
       
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1016,25 +1016,25 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 [7]
-Overfull \hbox (2.73665pt too wide) in paragraph at lines 134--135
+Overfull \hbox (2.73665pt too wide) in paragraph at lines 135--136
 []\OT1/cmr/bx/n/10 Fig. 1 \OT1/cmr/m/n/10 [3] vi-sar en un-gef[]arlig dis-tri-bu-tion som kan f[]orv[]antas vid anv[]andningen
  []
 
 
-Overfull \hbox (9.97296pt too wide) in paragraph at lines 138--140
+Overfull \hbox (9.97296pt too wide) in paragraph at lines 139--141
 \OT1/cmr/m/n/10 att vis-sa av de flyk-ti-ga best^^Wandsdelarna []ar avl[]agsnade i l[]osningsmedelsextraktionen
  []
 
 <bilder/Figure1.png, id=41, 3147.76pt x 2067.725pt>
 File: bilder/Figure1.png Graphic file (type png)
  <use bilder/Figure1.png>
-Package pdftex.def Info: bilder/Figure1.png used on input line 144.
+Package pdftex.def Info: bilder/Figure1.png used on input line 145.
 (pdftex.def)             Requested size: 362.0088pt x 237.79915pt.
 
-/home/getz/Documents/Gymnasie Arbete/main.tex:150: Undefined control sequence.
+/home/getz/Documents/Gymnasie Arbete/main.tex:151: Undefined control sequence.
 \f@ncyorf ->{\tiny Rev: \git 
                              }\strut 
-l.150 
+l.151 
       
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1045,19 +1045,19 @@ and I'll forget about whatever was undefined.
 [8 </home/getz/Documents/Gymnasie Arbete/bilder/Figure1.png>] <bilder/GCgraph.png, id=46, 459.6372pt x 252.2223pt>
 File: bilder/GCgraph.png Graphic file (type png)
  <use bilder/GCgraph.png>
-Package pdftex.def Info: bilder/GCgraph.png used on input line 153.
+Package pdftex.def Info: bilder/GCgraph.png used on input line 154.
 (pdftex.def)             Requested size: 344.72705pt x 189.16626pt.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
-(Font)              using `OT1/cmr/bx/n' instead on input line 157.
+(Font)              using `OT1/cmr/bx/n' instead on input line 158.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 170.
+(Font)              <9> on input line 171.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 170.
-/home/getz/Documents/Gymnasie Arbete/main.tex:188: Undefined control sequence.
-l.188 \note
+(Font)              <6> on input line 171.
+/home/getz/Documents/Gymnasie Arbete/main.tex:189: Undefined control sequence.
+l.189 \note
            {\textbf{cis*} = 1-methyl-4(1-methylethyl)2-cyclohexen-1-ol (cis)
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1066,28 +1066,28 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-/home/getz/Documents/Gymnasie Arbete/main.tex:195: Package inputenc Error: Unicode char ́ (U+301)
+/home/getz/Documents/Gymnasie Arbete/main.tex:196: Package inputenc Error: Unicode char ́ (U+301)
 (inputenc)                not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.195 ...s \textit{(Jaraguá do Sul, SC, Brazil)}
+l.196 ...s \textit{(Jaraguá do Sul, SC, Brazil)}
                                                   . De maldes med en kaffekv...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (23.94513pt too wide) in paragraph at lines 194--201
+Overfull \hbox (23.94513pt too wide) in paragraph at lines 195--202
 \OT1/cmr/m/n/10 ligt me-to-den be-skri-ven av ``The Ame-ri-can Spice Tra-de As-so-ci-a-tion'' f[]or best[]ammandet
  []
 
-/home/getz/Documents/Gymnasie Arbete/main.tex:201: Undefined control sequence.
+/home/getz/Documents/Gymnasie Arbete/main.tex:202: Undefined control sequence.
 \f@ncyorf ->{\tiny Rev: \git 
                              }\strut 
-l.201 
+l.202 
       
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1096,10 +1096,10 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 [9 </home/getz/Documents/Gymnasie Arbete/bilder/GCgraph.png>]
-/home/getz/Documents/Gymnasie Arbete/main.tex:246: Undefined control sequence.
+/home/getz/Documents/Gymnasie Arbete/main.tex:247: Undefined control sequence.
 \f@ncyorf ->{\tiny Rev: \git 
                              }\strut 
-l.246 \centered
+l.247 \centered
                {\caption{\textbf{Tabell 2}}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1108,10 +1108,10 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 [10]
-/home/getz/Documents/Gymnasie Arbete/main.tex:246: Undefined control sequence.
+/home/getz/Documents/Gymnasie Arbete/main.tex:247: Undefined control sequence.
 <recently read> \centered 
                           
-l.246 \centered
+l.247 \centered
                {\caption{\textbf{Tabell 2}}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1120,13 +1120,13 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-/home/getz/Documents/Gymnasie Arbete/main.tex:246: LaTeX Error: \caption outside float.
+/home/getz/Documents/Gymnasie Arbete/main.tex:247: LaTeX Error: \caption outside float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.246 \centered{\caption
+l.247 \centered{\caption
                         {\textbf{Tabell 2}}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1134,7 +1134,7 @@ If that doesn't work, type  X <return>  to quit.
 <bilder/Tabell2.png, id=57, 3570.33875pt x 2795.44376pt>
 File: bilder/Tabell2.png Graphic file (type png)
  <use bilder/Tabell2.png>
-Package pdftex.def Info: bilder/Tabell2.png used on input line 248.
+Package pdftex.def Info: bilder/Tabell2.png used on input line 249.
 (pdftex.def)             Requested size: 428.42216pt x 335.43878pt.
 
 /home/getz/Documents/Gymnasie Arbete/main.tex:268: Undefined control sequence.
@@ -1186,7 +1186,7 @@ Package logreq Info: Writing requests to 'main.run.xml'.
  )
 (\end occurred inside a group at level 1)
 
-### simple group (level 1) entered at line 246 ({)
+### simple group (level 1) entered at line 247 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
  10005 strings out of 494374
@@ -1195,10 +1195,10 @@ Here is how much of TeX's memory you used:
  13135 multiletter control sequences out of 15000+600000
  8752 words of font info for 31 fonts, out of 8000000 for 9000
  350 hyphenation exceptions out of 8191
- 67i,11n,50p,949b,1699s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 67i,10n,50p,949b,1699s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/
 public/amsfonts/cm/cmtt10.pfb>
-Output written on "/home/getz/Documents/Gymnasie Arbete/main.pdf" (14 pages, 651604 bytes).
+Output written on "/home/getz/Documents/Gymnasie Arbete/main.pdf" (14 pages, 652012 bytes).
 PDF statistics:
  115 PDF objects out of 1000 (max. 8388607)
  76 compressed objects within 1 object stream
