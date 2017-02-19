@@ -1,13 +1,13 @@
 # Fdb version 3
-["biber main"] 1487442359 "main.bcf" "main.bbl" "main" 1487442366
-  "main.bcf" 1487442366 92656 7ca37bb931b2d8f5b07be92d2905801f ""
+["biber main"] 1487442359 "main.bcf" "main.bbl" "main" 1487510882
+  "main.bcf" 1487507813 92656 7ca37bb931b2d8f5b07be92d2905801f ""
   "sample.bib" 1487442357 4459 33602fe173178c5b683740d1565be4bd ""
   (generated)
-  "main.bbl"
   "main.blg"
-["pdflatex"] 1487442361 "main.tex" "/home/getz/Documents/Gymnasie Arbete/main.pdf" "main" 1487442366
+  "main.bbl"
+["pdflatex"] 1487507809 "main.tex" "/home/getz/Documents/Gymnasie Arbete/main.pdf" "main" 1487510882
   "/etc/texmf/web2c/texmf.cnf" 1485261268 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/getz/Documents/Gymnasie Arbete/main.aux" 1487442366 5825 3f73fa6fe81da987ba22902753d7b46c ""
+  "/home/getz/Documents/Gymnasie Arbete/main.aux" 1487507813 5825 3f73fa6fe81da987ba22902753d7b46c ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -118,17 +118,17 @@
   "framsidan/title.tex" 1485867956 989 96d9ee4a76afdd8106e89fcad6583afd ""
   "introduktion/bakgrund.tex" 1487414434 16024 4b2846b015419b86a78dcfb1e524b554 ""
   "introduktion/syfte.tex" 1485343942 1962 08a6e425fbd8ab96536956ef7124eade ""
-  "main.aux" 1487442366 5825 3f73fa6fe81da987ba22902753d7b46c ""
+  "main.aux" 1487507813 5825 3f73fa6fe81da987ba22902753d7b46c ""
   "main.bbl" 1487442361 13970 f1160732d817b49467176e552dbe1fd9 "biber main"
-  "main.run.xml" 1487442366 2333 cedf8c189a252dc28e7fb7410d99e5a5 ""
-  "main.tex" 1487442359 19205 4daeb53d865ae8e4bc588d56e03760fa ""
-  "main.toc" 1487442366 2972 65c9e7e548570e24cb2d794cdf89cbdf ""
+  "main.run.xml" 1487507813 2333 cedf8c189a252dc28e7fb7410d99e5a5 ""
+  "main.tex" 1487510881 19270 c5f96b344afc1196c7813b450b34c7f3 ""
+  "main.toc" 1487507813 2972 65c9e7e548570e24cb2d794cdf89cbdf ""
   (generated)
-  "main.bcf"
-  "main.pdf"
   "main.aux"
   "main.toc"
+  "main.pdf"
   "/home/getz/Documents/Gymnasie Arbete/main.log"
-  "/home/getz/Documents/Gymnasie Arbete/main.pdf"
-  "main.run.xml"
+  "main.bcf"
   "main.log"
+  "main.run.xml"
+  "/home/getz/Documents/Gymnasie Arbete/main.pdf"
