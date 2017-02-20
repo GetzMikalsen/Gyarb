@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.1.25)  20 FEB 2017 13:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.1.25)  20 FEB 2017 13:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1180,12 +1180,12 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 [11 </home/getz/Documents/Gymnasie Arbete/bilder/Tabell2.png>]
-Overfull \hbox (25.88968pt too wide) in paragraph at lines 298--299
-[]\OT1/cmr/m/n/10 Ringsubstitutionen f[]or des-sa []amnen fr^^Wan den aro-ma-tis-ka frak-tio-nen []ar m[]arkv[]ardiga
+Overfull \hbox (1.97293pt too wide) in paragraph at lines 297--298
+[]\OT1/cmr/m/n/10 Ringsubstitutionen f[]or des-sa []amnen fr^^Wan den aro-ma-tis-ka frak-tio-nen []ar m[]arkv-
  []
 
-/home/getz/Documents/Gymnasie Arbete/main.tex:307: Undefined control sequence.
-l.307 ... troliga mekanismen för en sådan \texit
+/home/getz/Documents/Gymnasie Arbete/main.tex:306: Undefined control sequence.
+l.306 ... troliga mekanismen för en sådan \texit
                                                   {in vivo} modifikation har...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1196,13 +1196,13 @@ and I'll forget about whatever was undefined.
 <bilder/Figure4.png, id=62, 3034.33624pt x 2482.27374pt>
 File: bilder/Figure4.png Graphic file (type png)
  <use bilder/Figure4.png>
-Package pdftex.def Info: bilder/Figure4.png used on input line 318.
+Package pdftex.def Info: bilder/Figure4.png used on input line 317.
 (pdftex.def)             Requested size: 341.37125pt x 279.26268pt.
 
-/home/getz/Documents/Gymnasie Arbete/main.tex:320: Undefined control sequence.
+/home/getz/Documents/Gymnasie Arbete/main.tex:319: Undefined control sequence.
 \f@ncyorf ->{\tiny Rev: \git 
                              }\strut 
-l.320 	\begin{center}
+l.319 	\begin{center}
                      \textbf{Fig. 4.}\end{center}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1211,10 +1211,10 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 [12]
-/home/getz/Documents/Gymnasie Arbete/main.tex:360: Undefined control sequence.
+/home/getz/Documents/Gymnasie Arbete/main.tex:359: Undefined control sequence.
 \f@ncyorf ->{\tiny Rev: \git 
                              }\strut 
-l.360 
+l.359 
       
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1223,10 +1223,10 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 [13 </home/getz/Documents/Gymnasie Arbete/bilder/Figure4.png>]
-/home/getz/Documents/Gymnasie Arbete/main.tex:405: Undefined control sequence.
+/home/getz/Documents/Gymnasie Arbete/main.tex:404: Undefined control sequence.
 \f@ncyorf ->{\tiny Rev: \git 
                              }\strut 
-l.405 
+l.404 
       
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1235,14 +1235,14 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 [14]
-Overfull \hbox (6.77446pt too wide) in paragraph at lines 408--408
+Overfull \hbox (6.77446pt too wide) in paragraph at lines 407--407
 []\OT1/cmr/m/n/10 U Ste-in, H Grey-er och H Hents-chel. "  Nut-meg (my-ris-ti-cin) poi-so-ning|report
  []
 
-/home/getz/Documents/Gymnasie Arbete/main.tex:411: Undefined control sequence.
+/home/getz/Documents/Gymnasie Arbete/main.tex:410: Undefined control sequence.
 \f@ncyorf ->{\tiny Rev: \git 
                              }\strut 
-l.411 \end{document}
+l.410 \end{document}
                     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
