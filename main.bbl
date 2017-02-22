@@ -19,6 +19,61 @@
 
 \refsection{0}
   \sortlist[entry]{ynt/global}
+    \entry{peretz1955new}{article}{}
+      \name{author}{3}{}{%
+        {{hash=c3f9ffb5dfff4b7fc992cf480caaa00a}{%
+           family={Peretz},
+           family_i={P\bibinitperiod},
+           given={Dwight\bibnamedelima I},
+           given_i={D\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=c69c6538a02cba496ecf8b69944535aa}{%
+           family={Smythies},
+           family_i={S\bibinitperiod},
+           given={John\bibnamedelima R},
+           given_i={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=241438a812a37178027a2b9fbc51b55d}{%
+           family={Gibson},
+           family_i={G\bibinitperiod},
+           given={William\bibnamedelima C},
+           given_i={W\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {RCP}%
+      }
+      \strng{namehash}{10d5e9a2174cab40ac9450b48ef40684}
+      \strng{fullhash}{10d5e9a2174cab40ac9450b48ef40684}
+      \field{sortinit}{1}
+      \field{sortinithash}{53e85f4cf497d2a4e1d51786552bcbf1}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The British Journal of Psychiatry}
+      \field{number}{423}
+      \field{title}{A New Hallucinogen: 3, 4, 5-Trimethoxyphenyl-{ß}-Aminopropane}
+      \field{volume}{101}
+      \field{year}{1955}
+      \field{pages}{317\bibrangedash 329}
+      \range{pages}{13}
+    \endentry
+    \entry{alles1959some}{article}{}
+      \name{author}{1}{}{%
+        {{hash=c6b8de40cdef75a62605333486334167}{%
+           family={Alles},
+           family_i={A\bibinitperiod},
+           given={GORDON\bibnamedelima A},
+           given_i={G\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{c6b8de40cdef75a62605333486334167}
+      \strng{fullhash}{c6b8de40cdef75a62605333486334167}
+      \field{sortinit}{1}
+      \field{sortinithash}{53e85f4cf497d2a4e1d51786552bcbf1}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Neuropharmacology. New York: Josiah Macey Jr. Foundation}
+      \field{title}{Some relations between chemical structure and physiological action of mescaline and related compounds}
+      \field{year}{1959}
+      \field{pages}{181\bibrangedash 268}
+      \range{pages}{88}
+    \endentry
     \entry{truitt}{article}{}
       \name{author}{4}{}{%
         {{hash=d8de84396ba1e3ae773d606946d5d1ee}{%

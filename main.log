@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.1.25)  22 FEB 2017 14:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.1.25)  22 FEB 2017 21:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -970,36 +970,36 @@ Overfull \hbox (2.91743pt too wide) in paragraph at lines 175--178
  []
 
 ) [6] [7]
-Overfull \hbox (2.73665pt too wide) in paragraph at lines 138--139
-[]\OT1/cmr/bx/n/10 Fig. 1 \OT1/cmr/m/n/10 [3] vi-sar en un-gef[]arlig dis-tri-bu-tion som kan f[]orv[]antas vid anv[]andningen
+Overfull \hbox (2.73665pt too wide) in paragraph at lines 136--137
+[]\OT1/cmr/bx/n/10 Fig. 1 \OT1/cmr/m/n/10 [5] vi-sar en un-gef[]arlig dis-tri-bu-tion som kan f[]orv[]antas vid anv[]andningen
  []
 
 
-Overfull \hbox (9.97296pt too wide) in paragraph at lines 142--144
+Overfull \hbox (9.97296pt too wide) in paragraph at lines 140--142
 \OT1/cmr/m/n/10 att vis-sa av de flyk-ti-ga best^^Wandsdelarna []ar avl[]agsnade i l[]osningsmedelsextraktionen
  []
 
 <bilder/Figure1.png, id=40, 3147.76pt x 2067.725pt>
 File: bilder/Figure1.png Graphic file (type png)
  <use bilder/Figure1.png>
-Package pdftex.def Info: bilder/Figure1.png used on input line 148.
+Package pdftex.def Info: bilder/Figure1.png used on input line 146.
 (pdftex.def)             Requested size: 324.2085pt x 212.96858pt.
  [8 </home/getz/Documents/Gymnasie Arbete/bilder/Figure1.png>] <bilder/GCgraph.png, id=45, 459.6372pt x 252.2223pt>
 File: bilder/GCgraph.png Graphic file (type png)
  <use bilder/GCgraph.png>
-Package pdftex.def Info: bilder/GCgraph.png used on input line 157.
+Package pdftex.def Info: bilder/GCgraph.png used on input line 155.
 (pdftex.def)             Requested size: 344.72705pt x 189.16626pt.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
-(Font)              using `OT1/cmr/bx/n' instead on input line 161.
+(Font)              using `OT1/cmr/bx/n' instead on input line 159.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 174.
+(Font)              <9> on input line 172.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 174.
-/home/getz/Documents/Gymnasie Arbete/main.tex:192: Undefined control sequence.
-l.192 \note
+(Font)              <6> on input line 172.
+/home/getz/Documents/Gymnasie Arbete/main.tex:190: Undefined control sequence.
+l.190 \note
            {\textbf{cis*} = 1-methyl-4(1-methylethyl)2-cyclohexen-1-ol (cis)
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1008,13 +1008,13 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (23.94513pt too wide) in paragraph at lines 198--205
+Overfull \hbox (23.94513pt too wide) in paragraph at lines 196--203
 \OT1/cmr/m/n/10 ligt me-to-den be-skri-ven av ``The Ame-ri-can Spice Tra-de As-so-ci-a-tion'' f[]or best[]ammandet
  []
 
 [9 </home/getz/Documents/Gymnasie Arbete/bilder/GCgraph.png>] [10]
-/home/getz/Documents/Gymnasie Arbete/main.tex:251: Undefined control sequence.
-l.251 \centered
+/home/getz/Documents/Gymnasie Arbete/main.tex:242: Undefined control sequence.
+l.242 \centered
                {\caption{\textbf{Tabell 2}}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1023,13 +1023,13 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-/home/getz/Documents/Gymnasie Arbete/main.tex:251: LaTeX Error: \caption outside float.
+/home/getz/Documents/Gymnasie Arbete/main.tex:242: LaTeX Error: \caption outside float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.251 \centered{\caption
+l.242 \centered{\caption
                         {\textbf{Tabell 2}}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1037,15 +1037,15 @@ If that doesn't work, type  X <return>  to quit.
 <bilder/Tabell2.png, id=56, 3570.33875pt x 2795.44376pt>
 File: bilder/Tabell2.png Graphic file (type png)
  <use bilder/Tabell2.png>
-Package pdftex.def Info: bilder/Tabell2.png used on input line 253.
+Package pdftex.def Info: bilder/Tabell2.png used on input line 244.
 (pdftex.def)             Requested size: 428.42216pt x 335.43878pt.
  [11 </home/getz/Documents/Gymnasie Arbete/bilder/Tabell2.png>]
-Overfull \hbox (1.97293pt too wide) in paragraph at lines 300--301
+Overfull \hbox (1.97293pt too wide) in paragraph at lines 291--292
 []\OT1/cmr/m/n/10 Ringsubstitutionen f[]or des-sa []amnen fr^^Wan den aro-ma-tis-ka frak-tio-nen []ar m[]arkv-
  []
 
-/home/getz/Documents/Gymnasie Arbete/main.tex:309: Undefined control sequence.
-l.309 ... troliga mekanismen för en sådan \texit
+/home/getz/Documents/Gymnasie Arbete/main.tex:299: Undefined control sequence.
+l.299 ... troliga mekanismen för en sådan \texit
                                                   {in vivo} modifikation har...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1056,10 +1056,10 @@ and I'll forget about whatever was undefined.
 <bilder/Figure4.png, id=61, 3034.33624pt x 2482.27374pt>
 File: bilder/Figure4.png Graphic file (type png)
  <use bilder/Figure4.png>
-Package pdftex.def Info: bilder/Figure4.png used on input line 320.
+Package pdftex.def Info: bilder/Figure4.png used on input line 309.
 (pdftex.def)             Requested size: 341.37125pt x 279.26268pt.
  [12] [13 </home/getz/Documents/Gymnasie Arbete/bilder/Figure4.png>] [14]
-Overfull \hbox (6.77446pt too wide) in paragraph at lines 381--381
+Overfull \hbox (6.77446pt too wide) in paragraph at lines 368--368
 []\OT1/cmr/m/n/10 U Ste-in, H Grey-er och H Hents-chel. "  Nut-meg (my-ris-ti-cin) poi-so-ning|report
  []
 
@@ -1135,7 +1135,31 @@ I could not locate the file with any of these extensions:
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-[21]) [22] (/home/getz/Documents/Gymnasie Arbete/main.aux)
+[21]) [22] (/home/getz/Documents/Gymnasie Arbete/bilagor/MMDA
+/home/getz/Documents/Gymnasie Arbete/bilagor/MMDA:63: Undefined control sequence.
+l.63 /CreationDate (D:\pdfdate
+                              )
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+/home/getz/Documents/Gymnasie Arbete/bilagor/MMDA:68: LaTeX Error: File `/www/erowid.org/experiences/images/erologo_1cm_600dpi_greyscale' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.68 ...Erowid Experience Vaults Report Id: 92426}
+                                                  
+I could not locate the file with any of these extensions:
+.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[23]) [24] (/home/getz/Documents/Gymnasie Arbete/main.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1145,21 +1169,21 @@ Package logreq Info: Writing requests to 'main.run.xml'.
  )
 (\end occurred inside a group at level 1)
 
-### simple group (level 1) entered at line 251 ({)
+### simple group (level 1) entered at line 242 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 10034 strings out of 494374
- 166318 string characters out of 6164954
- 678231 words of memory out of 5000000
- 13138 multiletter control sequences out of 15000+600000
+ 10039 strings out of 494374
+ 166490 string characters out of 6164954
+ 678259 words of memory out of 5000000
+ 13140 multiletter control sequences out of 15000+600000
  8584 words of font info for 30 fonts, out of 8000000 for 9000
  350 hyphenation exceptions out of 8191
- 67i,10n,50p,1151b,1710s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 67i,10n,50p,1549b,1710s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on "/home/getz/Documents/Gymnasie Arbete/main.pdf" (23 pages, 743524 bytes).
+Output written on "/home/getz/Documents/Gymnasie Arbete/main.pdf" (25 pages, 751596 bytes).
 PDF statistics:
- 137 PDF objects out of 1000 (max. 8388607)
- 89 compressed objects within 1 object stream
+ 144 PDF objects out of 1000 (max. 8388607)
+ 94 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 

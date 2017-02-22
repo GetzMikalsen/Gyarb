@@ -46,14 +46,12 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.1}Litteraturstudie}{7}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2}Material}{7}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3}Avgr\IeC {\"a}nsningar}{7}
+\contentsline {subsection}{\numberline {2.2}Avgr\IeC {\"a}nsningar}{7}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3}Disposition}{8}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.1}Resultat}{12}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2}Diskussion}{13}
+\contentsline {subsection}{\numberline {3.2}Diskussion}{14}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4}Bilagor}{16}
