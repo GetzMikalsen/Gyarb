@@ -1,13 +1,13 @@
 # Fdb version 3
-["biber main"] 1487793385 "main.bcf" "main.bbl" "main" 1487793988
-  "main.bcf" 1487793988 93133 2350539c8bdecf5975110ec517ca56db ""
+["biber main"] 1487795032 "main.bcf" "main.bbl" "main" 1487795043
+  "main.bcf" 1487795041 93193 497715e8c6e02c76bc32cee400b3a0a3 ""
   "sample.bib" 1487778728 5038 bf2ebf23a10cc4933fa5afe65628f55f ""
   (generated)
-  "main.blg"
   "main.bbl"
-["pdflatex"] 1487793981 "main.tex" "/home/getz/Documents/Gymnasie Arbete/main.pdf" "main" 1487793988
+  "main.blg"
+["pdflatex"] 1487795034 "main.tex" "/home/getz/Documents/Gymnasie Arbete/main.pdf" "main" 1487795043
   "/etc/texmf/web2c/texmf.cnf" 1485261268 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/getz/Documents/Gymnasie Arbete/main.aux" 1487793988 5878 64cbf2362040768689dce99e75998498 ""
+  "/home/getz/Documents/Gymnasie Arbete/main.aux" 1487795041 5878 64cbf2362040768689dce99e75998498 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -122,17 +122,17 @@
   "framsidan/title.tex" 1487793865 987 7b16b1668b7383d1254d9dd2b8457c39 ""
   "introduktion/bakgrund" 1487778730 16160 75c6dac1c30f9729a6cc4fba15febad7 ""
   "introduktion/syfte.tex" 1485343942 1962 08a6e425fbd8ab96536956ef7124eade ""
-  "main.aux" 1487793988 5878 64cbf2362040768689dce99e75998498 ""
-  "main.bbl" 1487793388 16255 6d15ff0882e550eb4080f5734427b70f "biber main"
-  "main.run.xml" 1487793988 2333 cedf8c189a252dc28e7fb7410d99e5a5 ""
-  "main.tex" 1487793981 20851 14f54cf6b37209766c508968819da85f ""
-  "main.toc" 1487793988 2967 c77abcbafd8fd676f6d92d4da33173a0 ""
+  "main.aux" 1487795041 5878 64cbf2362040768689dce99e75998498 ""
+  "main.bbl" 1487795034 16255 6d15ff0882e550eb4080f5734427b70f "biber main"
+  "main.run.xml" 1487795041 2333 cedf8c189a252dc28e7fb7410d99e5a5 ""
+  "main.tex" 1487795043 21442 8535079fd608cf69f88e576010c43849 ""
+  "main.toc" 1487795041 2967 c77abcbafd8fd676f6d92d4da33173a0 ""
   (generated)
-  "/home/getz/Documents/Gymnasie Arbete/main.log"
-  "main.run.xml"
   "main.bcf"
-  "main.pdf"
-  "main.log"
-  "main.toc"
   "main.aux"
+  "main.log"
   "/home/getz/Documents/Gymnasie Arbete/main.pdf"
+  "main.toc"
+  "main.pdf"
+  "main.run.xml"
+  "/home/getz/Documents/Gymnasie Arbete/main.log"

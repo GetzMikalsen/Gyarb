@@ -1,14 +1,14 @@
 [1] Config.pm:340> INFO - This is Biber 2.4
 [2] Config.pm:343> INFO - Logfile is 'main.blg'
-[108] biber:287> INFO - === Wed Feb 22, 2017, 21:20:32
-[305] Biber.pm:348> INFO - Reading 'main.bcf'
-[619] Biber.pm:742> INFO - Found 15 citekeys in bib section 0
-[632] Biber.pm:3151> INFO - Processing section 0
-[700] Biber.pm:3308> INFO - Looking for bibtex format file 'sample.bib' for section 0
-[754] bibtex.pm:1113> INFO - Decoding LaTeX character macros into UTF-8
-[801] bibtex.pm:974> INFO - Found BibTeX data source 'sample.bib'
-[1474] UCollate.pm:65> INFO - Overriding locale 'sv-SE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1474] UCollate.pm:65> INFO - Overriding locale 'sv-SE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1474] Biber.pm:3028> INFO - Sorting list 'ynt/global' of type 'entry' with scheme 'ynt' and locale 'sv-SE'
-[1521] bbl.pm:519> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[1641] bbl.pm:615> INFO - Output to main.bbl
+[102] biber:287> INFO - === Wed Feb 22, 2017, 21:23:53
+[299] Biber.pm:348> INFO - Reading 'main.bcf'
+[629] Biber.pm:742> INFO - Found 15 citekeys in bib section 0
+[643] Biber.pm:3151> INFO - Processing section 0
+[719] Biber.pm:3308> INFO - Looking for bibtex format file 'sample.bib' for section 0
+[784] bibtex.pm:1113> INFO - Decoding LaTeX character macros into UTF-8
+[833] bibtex.pm:974> INFO - Found BibTeX data source 'sample.bib'
+[1538] UCollate.pm:65> INFO - Overriding locale 'sv-SE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1538] UCollate.pm:65> INFO - Overriding locale 'sv-SE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1538] Biber.pm:3028> INFO - Sorting list 'ynt/global' of type 'entry' with scheme 'ynt' and locale 'sv-SE'
+[1586] bbl.pm:519> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[1711] bbl.pm:615> INFO - Output to main.bbl
