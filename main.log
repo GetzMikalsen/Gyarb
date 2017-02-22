@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.1.25)  22 FEB 2017 23:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.1.25)  22 FEB 2017 23:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -949,12 +949,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[1] (/home/getz/Documents/Gymnasie Arbete/introduktion/syfte.tex) (/home/getz/Documents/Gymnasie Arbete/introduktion/bakgrund
-Overfull \hbox (3.2737pt too wide) in paragraph at lines 11--16
-\OT1/cmr/m/n/12 el-ler?] \OT1/cmr/bx/n/12 Fixa det-ta till svens-ka \OT1/cmr/m/n/12 Trots Mus-kotn[]otens ti-di-ga-re ut-bred-da anv[]andning
- []
-
-[2
+[1] (/home/getz/Documents/Gymnasie Arbete/introduktion/syfte.tex) (/home/getz/Documents/Gymnasie Arbete/introduktion/bakgrund [2
 
 ]
 Overfull \hbox (30.50127pt too wide) in paragraph at lines 34--35
@@ -988,11 +983,6 @@ l.38 ...ftande effekter, han kommenterade hur ´´
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
-
-
-Overfull \hbox (27.49435pt too wide) in paragraph at lines 53--55
-\OT1/cmr/m/n/12 dess anv[]andning som na-turl[]akemedel i Eu-ro-pa []ar se-dan l[]ange bort-gl[]omt. Anv[]andningen
- []
 
 [3] [4]
 Overfull \hbox (0.40852pt too wide) in paragraph at lines 128--132
@@ -1221,7 +1211,7 @@ Here is how much of TeX's memory you used:
  350 hyphenation exceptions out of 8191
  67i,10n,50p,1549b,1708s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on "/home/getz/Documents/Gymnasie Arbete/main.pdf" (25 pages, 725079 bytes).
+Output written on "/home/getz/Documents/Gymnasie Arbete/main.pdf" (25 pages, 725001 bytes).
 PDF statistics:
  136 PDF objects out of 1000 (max. 8388607)
  88 compressed objects within 1 object stream
