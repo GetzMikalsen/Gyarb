@@ -6,8 +6,8 @@
 \begin{center}
 \rule[0.5ex]{\linewidth}{2pt}\vspace*{-\baselineskip}\vspace*{3.2pt}
 \rule[0.5ex]{\linewidth}{1pt}\\[\baselineskip]
-{\HUGE \textit{Litterär Studie} }\\[4mm]
-{\Large Kemin och Psykofarmakologin av Muskotnöt samt dess tillhörande Phenylisopropylaminer}\\
+{\Large Kemin och Psykofarmakologin av Muskotnöt samt dess tillhörande Phenylisopropylaminer }\\[4mm]
+{\large \textit{En Litterär Studie}}\\
 \rule[0.5ex]{\linewidth}{1pt}\vspace*{-\baselineskip}\vspace{3.2pt}
 \rule[0.5ex]{\linewidth}{2pt}\\
 \vspace{6.5mm}
@@ -22,7 +22,10 @@
 \vspace{11mm}
 \begin{minipage}{10cm}
 %%DUMMY TEXT HERE
-\lipsum[66]
+Muskotnöt, en lättillgänglig krydda som har använts världen över i flera århundraden.
+Använd för sin smak, men även använd för sina psykotropiska effekter.
+Muskotnötens flyktiga olja är saken för denna studie, där dess beståndsdelar står till svars för dess
+rykte som ett berusningsmedel.
 %%DUMMY TEXT ENDS HERE
 \end{minipage}\\
 \vspace{9mm}
