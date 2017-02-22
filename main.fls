@@ -178,8 +178,8 @@ OUTPUT /home/getz/Documents/Gymnasie Arbete/main.toc
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /home/getz/Documents/Gymnasie Arbete/introduktion/syfte.tex
 INPUT /home/getz/Documents/Gymnasie Arbete/introduktion/syfte.tex
-INPUT /home/getz/Documents/Gymnasie Arbete/introduktion/bakgrund.tex
-INPUT /home/getz/Documents/Gymnasie Arbete/introduktion/bakgrund.tex
+INPUT /home/getz/Documents/Gymnasie Arbete/introduktion/bakgrund
+INPUT /home/getz/Documents/Gymnasie Arbete/introduktion/bakgrund
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
 INPUT /home/getz/Documents/Gymnasie Arbete/bilder/Figure1.png
 INPUT /home/getz/Documents/Gymnasie Arbete/bilder/Figure1.png
