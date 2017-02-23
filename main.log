@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.1.25)  22 FEB 2017 23:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.1.25)  23 FEB 2017 12:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -952,65 +952,65 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [1] (/home/getz/Documents/Gymnasie Arbete/introduktion/syfte.tex) (/home/getz/Documents/Gymnasie Arbete/introduktion/bakgrund [2
 
 ]
-Overfull \hbox (30.50127pt too wide) in paragraph at lines 34--35
+Overfull \hbox (30.50127pt too wide) in paragraph at lines 33--34
 \OT1/cmr/m/n/12 ett ab-ort-me-del. Det []ar in-te fast-st[]allt n[]ar det f[]orst blev k[]ant som ett anv[]andningsomr^^Wade,
  []
 
 
-/home/getz/Documents/Gymnasie Arbete/introduktion/bakgrund:38: Package inputenc Error: Unicode char ´ (U+B4)
+/home/getz/Documents/Gymnasie Arbete/introduktion/bakgrund:37: Package inputenc Error: Unicode char ´ (U+B4)
 (inputenc)                not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.38 ...lyftande effekter, han kommenterade hur ´
+l.37 ...lyftande effekter, han kommenterade hur ´
                                                   ´it can greatly
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-/home/getz/Documents/Gymnasie Arbete/introduktion/bakgrund:38: Package inputenc Error: Unicode char ´ (U+B4)
+/home/getz/Documents/Gymnasie Arbete/introduktion/bakgrund:37: Package inputenc Error: Unicode char ´ (U+B4)
 (inputenc)                not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.38 ...ftande effekter, han kommenterade hur ´´
+l.37 ...ftande effekter, han kommenterade hur ´´
                                                   it can greatly
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 [3] [4]
-Overfull \hbox (0.40852pt too wide) in paragraph at lines 128--132
+Overfull \hbox (0.40852pt too wide) in paragraph at lines 127--131
 \OT1/cmr/m/n/12 Psykologiska ef-fek-ter av mus-kotn[]ot in-ne-fat-tar, torr mun, il-lam^^Waende, hj[]artrusning,
  []
 
-[5]
 
-/home/getz/Documents/Gymnasie Arbete/introduktion/bakgrund:140: LaTeX Error: There's no line here to end.
+/home/getz/Documents/Gymnasie Arbete/introduktion/bakgrund:139: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.140 
+l.139 
       
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
+[5]
 
-/home/getz/Documents/Gymnasie Arbete/introduktion/bakgrund:166: LaTeX Error: There's no line here to end.
+/home/getz/Documents/Gymnasie Arbete/introduktion/bakgrund:165: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.166 
+l.165 
       
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1205,13 +1205,13 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Here is how much of TeX's memory you used:
  10519 strings out of 494374
  173537 string characters out of 6164954
- 692072 words of memory out of 5000000
+ 693072 words of memory out of 5000000
  13607 multiletter control sequences out of 15000+600000
  10414 words of font info for 36 fonts, out of 8000000 for 9000
  350 hyphenation exceptions out of 8191
  67i,10n,50p,1549b,1708s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on "/home/getz/Documents/Gymnasie Arbete/main.pdf" (25 pages, 725001 bytes).
+Output written on "/home/getz/Documents/Gymnasie Arbete/main.pdf" (25 pages, 724929 bytes).
 PDF statistics:
  136 PDF objects out of 1000 (max. 8388607)
  88 compressed objects within 1 object stream
