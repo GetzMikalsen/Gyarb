@@ -18,15 +18,15 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {1.2.2}Muskotn\IeC {\"o}t som medicin}{3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.2.3}Muskotn\IeC {\"o}t som afrodisiakum}{4}
+\contentsline {subsubsection}{\numberline {1.2.3}Muskotn\IeC {\"o}t som afrodisiakum}{3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.2.4}Muskotn\IeC {\"o}t som dr\IeC {\"o}m f\IeC {\"o}rb\IeC {\"a}ttrare}{4}
+\contentsline {subsubsection}{\numberline {1.2.4}Muskotn\IeC {\"o}t som dr\IeC {\"o}mf\IeC {\"o}rb\IeC {\"a}ttrare}{4}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {1.2.5}Muskotn\IeC {\"o}t som berusningsmedel}{4}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {1.2.6}Effekter av Muskotn\IeC {\"o}t}{5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.2.7}Dosering av Muskotn\IeC {\"o}t}{6}
+\contentsline {subsubsection}{\numberline {1.2.7}Dosering av muskotn\IeC {\"o}t}{6}
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{Tr\IeC {\"o}skel (3-5 gram eller 1-1.5 tsk)}{6}
 \defcounter {refsection}{0}\relax 
@@ -54,4 +54,4 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.2}Diskussion}{14}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}Bilagor}{16}
+\contentsline {section}{\numberline {4}Bilagor}{17}

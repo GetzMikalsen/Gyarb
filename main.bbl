@@ -239,6 +239,28 @@
       \field{title}{The Autobiography of Malcolm X}
       \field{year}{1981}
     \endentry
+    \entry{schultes1992plants}{article}{}
+      \name{author}{2}{}{%
+        {{hash=1666ee1a3fe8545cec7fd18c44ba153a}{%
+           family={Schultes},
+           family_i={S\bibinitperiod},
+           given={Richard\bibnamedelima Evans},
+           given_i={R\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=370ff2d259066099a05ba0c87c081387}{%
+           family={Hofmann},
+           family_i={H\bibinitperiod},
+           given={Albert},
+           given_i={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{fea83c9bdd9541568396df4a399190da}
+      \strng{fullhash}{fea83c9bdd9541568396df4a399190da}
+      \field{sortinit}{1}
+      \field{sortinithash}{53e85f4cf497d2a4e1d51786552bcbf1}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Plants of the gods: their sacred, healing, and hallucinogenic powers.}
+      \field{year}{1992}
+    \endentry
     \entry{shulgin1995pihkal}{book}{}
       \name{author}{2}{}{%
         {{hash=ccf85273e92f5e412bd3d231f669ea28}{%
