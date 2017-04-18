@@ -2082,12 +2082,14 @@
     <bcf:citekey order="34">truitt</bcf:citekey>
     <bcf:citekey order="35">shulgin1967chemistry</bcf:citekey>
     <bcf:citekey order="36">shulgin1967chemistry</bcf:citekey>
-    <bcf:citekey order="37">alles1959some</bcf:citekey>
-    <bcf:citekey order="38">shulgin1967chemistry</bcf:citekey>
-    <bcf:citekey order="39">shulgin1995pihkal</bcf:citekey>
-    <bcf:citekey order="40">peretz1955new</bcf:citekey>
+    <bcf:citekey order="37">shulgin1967chemistry</bcf:citekey>
+    <bcf:citekey order="38">alles1959some</bcf:citekey>
+    <bcf:citekey order="39">shulgin1967chemistry</bcf:citekey>
+    <bcf:citekey order="40">shulgin1967chemistry</bcf:citekey>
     <bcf:citekey order="41">shulgin1995pihkal</bcf:citekey>
-    <bcf:citekey order="42">shulgin1995pihkal</bcf:citekey>
+    <bcf:citekey order="42">peretz1955new</bcf:citekey>
+    <bcf:citekey order="43">shulgin1995pihkal</bcf:citekey>
+    <bcf:citekey order="44">shulgin1995pihkal</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="ynt/global" type="entry" sortscheme="ynt" sortnamekeyscheme="global">
   <bcf:sorting>

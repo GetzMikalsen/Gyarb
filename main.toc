@@ -54,4 +54,6 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.2}Diskussion}{14}
 \defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3}Slutsats}{14}
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4}Bilagor}{17}
